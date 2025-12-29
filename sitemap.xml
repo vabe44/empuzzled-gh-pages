@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/empuzzled-gh-pages/__sitemap__/style.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages</loc>
+        <loc>https://empuzzled.com/</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/about</loc>
+        <loc>https://empuzzled.com/about</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog</loc>
+        <loc>https://empuzzled.com/blog</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/avatar/christmas_noel.webp</image:loc>
         </image:image>
@@ -493,16 +493,16 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/calendar</loc>
+        <loc>https://empuzzled.com/calendar</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/classic</loc>
+        <loc>https://empuzzled.com/classic</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/logo-crop.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/codes</loc>
+        <loc>https://empuzzled.com/codes</loc>
         <lastmod>2025-12-29</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/profile_avatar.webp</image:loc>
@@ -587,16 +587,13 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/contact</loc>
+        <loc>https://empuzzled.com/contact</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/disclaimer</loc>
+        <loc>https://empuzzled.com/disclaimer</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/empuzzled-gh-pages</loc>
-    </url>
-    <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/farming-guide</loc>
+        <loc>https://empuzzled.com/farming-guide</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/farming-guide/wanted_red.webp</image:loc>
         </image:image>
@@ -617,55 +614,55 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/fated-summon</loc>
+        <loc>https://empuzzled.com/fated-summon</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/hero-coach</loc>
+        <loc>https://empuzzled.com/hero-coach</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/misc/symbol_gem.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/hero-database</loc>
+        <loc>https://empuzzled.com/hero-database</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/privacy-policy</loc>
+        <loc>https://empuzzled.com/privacy-policy</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/shadow</loc>
+        <loc>https://empuzzled.com/shadow</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/logo-crop.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/skill</loc>
+        <loc>https://empuzzled.com/skill</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/logo-crop.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/soul-exchange</loc>
+        <loc>https://empuzzled.com/soul-exchange</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/support-us</loc>
+        <loc>https://empuzzled.com/support-us</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/talent-simulator</loc>
+        <loc>https://empuzzled.com/talent-simulator</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/terms</loc>
+        <loc>https://empuzzled.com/terms</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/tier-list</loc>
+        <loc>https://empuzzled.com/tier-list</loc>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/visiting-outfitter</loc>
+        <loc>https://empuzzled.com/visiting-outfitter</loc>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/misc/symbol_gem.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-and-puzzles-mana-speed-guide-breakpoints-troops-tiles</loc>
+        <loc>https://empuzzled.com/blog/empires-and-puzzles-mana-speed-guide-breakpoints-troops-tiles</loc>
         <lastmod>2025-12-10</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/articles/empires-and-puzzles-mana-speed-guide-breakpoints-troops-tiles.webp</image:loc>
@@ -678,7 +675,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-and-puzzles-version-82-release-notes</loc>
+        <loc>https://empuzzled.com/blog/empires-and-puzzles-version-82-release-notes</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/articles/v82_UpdateOutNow.webp</image:loc>
@@ -691,7 +688,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-abigail-5-star-legendary-fire-red-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-abigail-5-star-legendary-fire-red-from-investigator-family-review</loc>
         <lastmod>2025-12-25</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -704,7 +701,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-acidfire-5-star-legendary-dark-purple-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-acidfire-5-star-legendary-dark-purple-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -717,7 +714,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-aeschere-4-star-epic-holy-yellow-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-aeschere-4-star-epic-holy-yellow-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -730,7 +727,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-andvari-5-star-legendary-ice-blue-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-andvari-5-star-legendary-ice-blue-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -743,7 +740,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-archibald-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-archibald-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-21</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -756,7 +753,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-asketel-5-star-legendary-dark-purple-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-asketel-5-star-legendary-dark-purple-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -769,7 +766,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-atwood-5-star-legendary-nature-green-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-atwood-5-star-legendary-nature-green-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -782,7 +779,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-auricarc-5-star-legendary-holy-yellow-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-auricarc-5-star-legendary-holy-yellow-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -795,7 +792,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-beowulf-5-star-legendary-fire-red-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-beowulf-5-star-legendary-fire-red-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -808,7 +805,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-boom-and-fang-5-star-legendary-nature-green-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-boom-and-fang-5-star-legendary-nature-green-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -821,7 +818,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-boots-3-star-rare-fire-red-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-boots-3-star-rare-fire-red-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -831,7 +828,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-bryggvir-3-star-rare-ice-blue-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-bryggvir-3-star-rare-ice-blue-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -844,7 +841,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-burton-5-star-legendary-ice-blue-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-burton-5-star-legendary-ice-blue-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -857,7 +854,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-caelen-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-caelen-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-21</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -870,7 +867,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ceris-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ceris-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -883,7 +880,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-chao-gai-5-star-legendary-dark-purple-from-outlaw-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-chao-gai-5-star-legendary-dark-purple-from-outlaw-family-review</loc>
         <lastmod>2025-12-25</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -896,7 +893,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-charmione-5-star-legendary-fire-red-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-charmione-5-star-legendary-fire-red-from-slime-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -909,7 +906,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-chimister-5-star-legendary-ice-blue-from-moths-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-chimister-5-star-legendary-ice-blue-from-moths-family-review</loc>
         <lastmod>2025-12-16</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -922,7 +919,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-chires-3-star-rare-nature-green-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-chires-3-star-rare-nature-green-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -935,7 +932,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-choozen-4-star-epic-ice-blue-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-choozen-4-star-epic-ice-blue-from-slime-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -948,7 +945,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-chunkyroi-5-star-legendary-fire-red-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-chunkyroi-5-star-legendary-fire-red-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -961,7 +958,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ciara-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ciara-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-16</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -974,7 +971,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-cosmicspeaker-5-star-legendary-ice-blue-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-cosmicspeaker-5-star-legendary-ice-blue-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -987,7 +984,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-cthuwu-3-star-rare-holy-yellow-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-cthuwu-3-star-rare-holy-yellow-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1000,7 +997,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-dagr-5-star-legendary-nature-green-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-dagr-5-star-legendary-nature-green-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1013,7 +1010,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-dain-4-star-epic-ice-blue-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-dain-4-star-epic-ice-blue-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1026,7 +1023,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-darkfeather-5-star-legendary-dark-purple-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-darkfeather-5-star-legendary-dark-purple-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1036,7 +1033,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-deadboot-5-star-legendary-dark-purple-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-deadboot-5-star-legendary-dark-purple-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1046,7 +1043,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-december-2025-balance-update</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-december-2025-balance-update</loc>
         <lastmod>2025-12-16</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/articles/Balance_Update_November_2025.webp</image:loc>
@@ -1059,7 +1056,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-demhalar-5-star-legendary-fire-red-from-forsaken-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-demhalar-5-star-legendary-fire-red-from-forsaken-family-review</loc>
         <lastmod>2025-12-28</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1072,7 +1069,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-demilune-5-star-legendary-dark-purple-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-demilune-5-star-legendary-dark-purple-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1085,7 +1082,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-dima-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-dima-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-21</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1098,7 +1095,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-dolores-5-star-legendary-holy-yellow-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-dolores-5-star-legendary-holy-yellow-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1111,7 +1108,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-dreadstar-5-star-legendary-dark-purple-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-dreadstar-5-star-legendary-dark-purple-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1124,7 +1121,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-dularfulr-5-star-legendary-dark-purple-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-dularfulr-5-star-legendary-dark-purple-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1137,7 +1134,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ecgtheow-5-star-legendary-nature-green-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ecgtheow-5-star-legendary-nature-green-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1150,7 +1147,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-errin-4-star-epic-holy-yellow-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-errin-4-star-epic-holy-yellow-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1163,7 +1160,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fafnir-5-star-legendary-nature-green-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fafnir-5-star-legendary-nature-green-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1176,7 +1173,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fated-summon-7-july-2025-guide-best-heroes</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fated-summon-7-july-2025-guide-best-heroes</loc>
         <lastmod>2025-07-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/articles/empires-puzzles-fated-summon-7-july-2025-guide-best-heroes-s.webp</image:loc>
@@ -1189,7 +1186,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fergus-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fergus-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-21</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1202,7 +1199,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fimafeng-5-star-legendary-fire-red-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fimafeng-5-star-legendary-fire-red-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1215,7 +1212,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fizzcoil-5-star-legendary-blue-ice-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fizzcoil-5-star-legendary-blue-ice-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1228,7 +1225,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fjalar-4-star-holy-yellow-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fjalar-4-star-holy-yellow-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1241,7 +1238,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-flamehide-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-flamehide-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1254,7 +1251,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-frank-fangs-brimwell-5-star-legendary-holy-yellow-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-frank-fangs-brimwell-5-star-legendary-holy-yellow-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1267,7 +1264,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-freawaru-5-star-legendary-nature-green-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-freawaru-5-star-legendary-nature-green-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1280,7 +1277,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-frostsnout-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-frostsnout-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1293,7 +1290,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fruitio-4-star-epic-nature-green-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fruitio-4-star-epic-nature-green-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1306,7 +1303,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-fungustine-5-star-legendary-nature-green-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-fungustine-5-star-legendary-nature-green-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1319,7 +1316,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gandr-5-star-legendary-holy-yellow-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gandr-5-star-legendary-holy-yellow-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1332,7 +1329,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gardered-5-star-legendary-fire-red-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gardered-5-star-legendary-fire-red-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1345,7 +1342,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gloozmer-5-star-legendary-ice-blue-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gloozmer-5-star-legendary-ice-blue-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1358,7 +1355,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-godfrey-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-godfrey-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1371,7 +1368,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-goldie-4-star-epic-holy-yellow-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-goldie-4-star-epic-holy-yellow-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1381,7 +1378,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-goldrip-5-star-legendary-holy-yellow-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-goldrip-5-star-legendary-holy-yellow-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1394,7 +1391,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gongoth-5-star-legendary-dark-purple-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gongoth-5-star-legendary-dark-purple-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1407,7 +1404,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gooldron-5-star-legendary-dark-purple-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gooldron-5-star-legendary-dark-purple-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1420,7 +1417,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-goorian-5-star-legendary-nature-green-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-goorian-5-star-legendary-nature-green-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1433,7 +1430,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gooric-5-star-legendary-holy-yellow-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gooric-5-star-legendary-holy-yellow-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1446,7 +1443,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gooze-5-star-legendary-fire-red-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gooze-5-star-legendary-fire-red-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1459,7 +1456,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-greg-4-star-epic-ice-blue-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-greg-4-star-epic-ice-blue-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1472,7 +1469,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-grendel-5-star-legendary-nature-green-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-grendel-5-star-legendary-nature-green-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1485,7 +1482,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-grendels-mother-5-star-legendary-dark-purple-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-grendels-mother-5-star-legendary-dark-purple-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1498,7 +1495,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-grimsteel-5-star-legendary-ice-blue-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-grimsteel-5-star-legendary-ice-blue-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1511,7 +1508,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-grovevert-5-star-legendary-nature-green-from-moths-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-grovevert-5-star-legendary-nature-green-from-moths-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1524,7 +1521,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gu-dasao-4-star-epic-holy-yellow-from-outlaws-of-liangshan-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gu-dasao-4-star-epic-holy-yellow-from-outlaws-of-liangshan-family-review</loc>
         <lastmod>2025-12-25</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1537,7 +1534,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gunktus-5-star-legendary-dark-purple-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gunktus-5-star-legendary-dark-purple-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1550,7 +1547,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-gwendoline-5-star-legendary-holy-yellow-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gwendoline-5-star-legendary-holy-yellow-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1563,7 +1560,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hammerclang-5-star-legendary-fire-red-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hammerclang-5-star-legendary-fire-red-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1576,7 +1573,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-helgi-3-star-rare-fire-red-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-helgi-3-star-rare-fire-red-from-nidavellir-family-review</loc>
         <lastmod>2025-12-17</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1589,7 +1586,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-helgi-costume-3-star-rare-fire-red-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-helgi-costume-3-star-rare-fire-red-from-nidavellir-family-review</loc>
         <lastmod>2025-12-17</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1602,7 +1599,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hogne-5-star-legendary-ice-blue-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hogne-5-star-legendary-ice-blue-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1615,7 +1612,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hreidmarr-5-star-legendary-dark-purple-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hreidmarr-5-star-legendary-dark-purple-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1628,7 +1625,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hrothgar-5-star-legendary-ice-blue-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hrothgar-5-star-legendary-ice-blue-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1641,7 +1638,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hunter-5-star-legendary-dark-purple-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hunter-5-star-legendary-dark-purple-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1654,7 +1651,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hygil-5-star-legendary-nature-green-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hygil-5-star-legendary-nature-green-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1667,7 +1664,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-hysteria-5-star-legendary-ice-blue-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hysteria-5-star-legendary-ice-blue-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1680,7 +1677,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-iarlaith-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-iarlaith-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1693,7 +1690,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-iocantha-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-iocantha-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1706,7 +1703,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ixinn-5-star-legendary-ice-blue-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ixinn-5-star-legendary-ice-blue-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1719,7 +1716,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-joyvert-4-star-epic-nature-green-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-joyvert-4-star-epic-nature-green-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1732,7 +1729,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-kettle-5-star-legendary-ice-blue-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-kettle-5-star-legendary-ice-blue-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1742,7 +1739,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-khatrox-5-star-legendary-nature-green-from-forsaken-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-khatrox-5-star-legendary-nature-green-from-forsaken-family-review</loc>
         <lastmod>2025-12-28</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1755,7 +1752,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-knightus-5-star-legendary-dark-purple-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-knightus-5-star-legendary-dark-purple-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1768,7 +1765,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-kolya-5-star-legendary-nature-green-from-garrison-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-kolya-5-star-legendary-nature-green-from-garrison-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1781,7 +1778,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-lamentia-4-star-epic-ice-blue-from-forsaken-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-lamentia-4-star-epic-ice-blue-from-forsaken-family-review</loc>
         <lastmod>2025-12-28</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1794,7 +1791,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-leafwhisk-5-star-legendary-nature-green-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-leafwhisk-5-star-legendary-nature-green-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1807,7 +1804,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-lemniss-5-star-legendary-dark-purple-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-lemniss-5-star-legendary-dark-purple-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1820,7 +1817,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-lemonwood-5-star-legendary-holy-yellow-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-lemonwood-5-star-legendary-holy-yellow-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1833,7 +1830,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-li-kui-5-star-legendary-fire-red-from-outlaws-of-liangshan-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-li-kui-5-star-legendary-fire-red-from-outlaws-of-liangshan-family-review</loc>
         <lastmod>2025-12-25</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1846,7 +1843,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-lilareine-5-star-legendary-dark-purple-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-lilareine-5-star-legendary-dark-purple-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1859,7 +1856,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-limeboire-5-star-legendary-nature-green-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-limeboire-5-star-legendary-nature-green-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1872,7 +1869,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-lionstring-4-star-epic-nature-green-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-lionstring-4-star-epic-nature-green-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1885,7 +1882,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-liu-tang-3-star-rare-fire-red-from-outlaws-of-liangshan-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-liu-tang-3-star-rare-fire-red-from-outlaws-of-liangshan-family-review</loc>
         <lastmod>2025-12-25</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1898,7 +1895,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-lu-zhishen-5-star-legendary-fire-red-from-outlaws-of-liangshan-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-lu-zhishen-5-star-legendary-fire-red-from-outlaws-of-liangshan-family-review</loc>
         <lastmod>2025-12-25</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1911,7 +1908,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-madhammer-5-star-legendary-fire-red-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-madhammer-5-star-legendary-fire-red-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1924,7 +1921,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-maegwyn-5-star-legendary-nature-green-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-maegwyn-5-star-legendary-nature-green-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1937,7 +1934,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-magistine-5-star-legendary-ice-blue-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-magistine-5-star-legendary-ice-blue-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1950,7 +1947,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-maisie-5-star-legendary-dark-purple-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-maisie-5-star-legendary-dark-purple-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1963,7 +1960,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-melancholia-5-star-legendary-dark-purple-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-melancholia-5-star-legendary-dark-purple-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1976,7 +1973,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-melodymuse-5-star-legendary-holy-yellow-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-melodymuse-5-star-legendary-holy-yellow-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -1989,7 +1986,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-modthryth-5-star-legendary-ice-blue-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-modthryth-5-star-legendary-ice-blue-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2002,7 +1999,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-moonbell-5-star-legendary-holy-yellow-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-moonbell-5-star-legendary-holy-yellow-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2015,7 +2012,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-mooncure-5-star-legendary-ice-blue-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-mooncure-5-star-legendary-ice-blue-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2028,7 +2025,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-moonflower-5-star-legendary-nature-green-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-moonflower-5-star-legendary-nature-green-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2041,7 +2038,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-mortewitch-5-star-legendary-dark-purple-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-mortewitch-5-star-legendary-dark-purple-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2054,7 +2051,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-motsognir-5-star-legendary-holy-yellow-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-motsognir-5-star-legendary-holy-yellow-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2067,7 +2064,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-mucktus-5-star-legendary-nature-green-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-mucktus-5-star-legendary-nature-green-from-slime-family-review</loc>
         <lastmod>2025-12-15</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2080,7 +2077,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-nithgaest-5-star-legendary-holy-yellow-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-nithgaest-5-star-legendary-holy-yellow-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2093,7 +2090,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-omen-5-star-legendary-fire-red-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-omen-5-star-legendary-fire-red-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2106,7 +2103,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-orcur-5-star-legendary-ice-blue-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-orcur-5-star-legendary-ice-blue-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2119,7 +2116,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ott-5-star-legendary-nature-green-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ott-5-star-legendary-nature-green-from-nidavellir-family-review</loc>
         <lastmod>2025-12-17</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2132,7 +2129,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ott-costume-5-star-legendary-nature-green-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ott-costume-5-star-legendary-nature-green-from-nidavellir-family-review</loc>
         <lastmod>2025-12-17</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2145,7 +2142,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-penelope-5-star-legendary-nature-green-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-penelope-5-star-legendary-nature-green-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2158,7 +2155,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-pepperbleu-5-star-legendary-blue-ice-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-pepperbleu-5-star-legendary-blue-ice-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2171,7 +2168,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-pepperflame-5-star-legendary-fire-red-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-pepperflame-5-star-legendary-fire-red-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2184,7 +2181,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-pip-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-pip-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2197,7 +2194,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-piper-3-star-rare-fire-red-from-institute-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-piper-3-star-rare-fire-red-from-institute-family-review</loc>
         <lastmod>2025-12-28</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2210,7 +2207,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-pluth-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-pluth-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2223,7 +2220,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-prof-morryster-5-star-legendary-dark-purple-from-institute-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-prof-morryster-5-star-legendary-dark-purple-from-institute-family-review</loc>
         <lastmod>2025-12-28</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2236,7 +2233,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-quari-5-star-legendary-ice-blue-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-quari-5-star-legendary-ice-blue-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2249,7 +2246,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-rashan-5-star-legendary-fire-red-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-rashan-5-star-legendary-fire-red-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2262,7 +2259,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-ratgrub-5-star-legendary-holy-yellow-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ratgrub-5-star-legendary-holy-yellow-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2275,7 +2272,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-regin-5-star-legendary-fire-red-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-regin-5-star-legendary-fire-red-from-nidavellir-family-review</loc>
         <lastmod>2025-12-17</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2288,7 +2285,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-regin-costume-5-star-legendary-fire-red-from-nidavellir-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-regin-costume-5-star-legendary-fire-red-from-nidavellir-family-review</loc>
         <lastmod>2025-12-17</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2301,7 +2298,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-rocket-5-star-legendary-fire-red-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-rocket-5-star-legendary-fire-red-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2314,7 +2311,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-rosalind-5-star-legendary-holy-yellow-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-rosalind-5-star-legendary-holy-yellow-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2327,7 +2324,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-rosanna-5-star-legendary-fire-red-from-investigator-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-rosanna-5-star-legendary-fire-red-from-investigator-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2340,7 +2337,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-rosepetite-3-star-rare-fire-red-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-rosepetite-3-star-rare-fire-red-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2353,7 +2350,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-salniss-5-star-legendary-holy-yellow-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-salniss-5-star-legendary-holy-yellow-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2366,7 +2363,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-salvatore-5-star-legendary-ice-blue-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-salvatore-5-star-legendary-ice-blue-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2379,7 +2376,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-satinpimenter-5-star-legendary-holy-yellow-from-moths-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-satinpimenter-5-star-legendary-holy-yellow-from-moths-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2392,7 +2389,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-scrollbeast-5-star-legendary-holy-yellow-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-scrollbeast-5-star-legendary-holy-yellow-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2405,7 +2402,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-sedille-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-sedille-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2418,7 +2415,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-shimmerscale-5-star-legendary-holy-yellow-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-shimmerscale-5-star-legendary-holy-yellow-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2431,7 +2428,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-shoggo-4-star-epic-dark-purple-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-shoggo-4-star-epic-dark-purple-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2444,7 +2441,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-shyombre-4-star-epic-dark-purple-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-shyombre-4-star-epic-dark-purple-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2457,7 +2454,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-slimgo-5-star-legendary-ice-blue-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-slimgo-5-star-legendary-ice-blue-from-slime-family-review</loc>
         <lastmod>2025-12-16</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2470,7 +2467,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-sludgus-5-star-legendary-holy-yellow-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-sludgus-5-star-legendary-holy-yellow-from-slime-family-review</loc>
         <lastmod>2025-12-16</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2483,7 +2480,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-smarttongue-5-star-legendary-nature-green-from-goblin-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-smarttongue-5-star-legendary-nature-green-from-goblin-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2493,7 +2490,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-snorri-4-star-epic-nature-green-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-snorri-4-star-epic-nature-green-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2506,7 +2503,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-sparklight-5-star-legendary-fire-red-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-sparklight-5-star-legendary-fire-red-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2519,7 +2516,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-starlass-5-star-legendary-nature-green-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-starlass-5-star-legendary-nature-green-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2532,7 +2529,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-starswift-3-star-rare-fire-red-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-starswift-3-star-rare-fire-red-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2545,7 +2542,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-starwalker-5-star-legendary-ice-blue-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-starwalker-5-star-legendary-ice-blue-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2558,7 +2555,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-tealmoine-5-star-legendary-ice-blue-from-moth-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-tealmoine-5-star-legendary-ice-blue-from-moth-family-review</loc>
         <lastmod>2025-12-20</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2571,7 +2568,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-theodosius-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-theodosius-5-star-legendary-nature-green-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2584,7 +2581,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-thrivaldi-5-star-legendary-dark-purple-from-myrkheim-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-thrivaldi-5-star-legendary-dark-purple-from-myrkheim-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2597,7 +2594,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-unferth-3-star-rare-dark-purple-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-unferth-3-star-rare-dark-purple-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2610,7 +2607,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-vanya-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-vanya-5-star-legendary-fire-red-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2623,7 +2620,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-vard-5-star-legendary-dark-purple-from-astral-dwarfs-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-vard-5-star-legendary-dark-purple-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2636,7 +2633,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-verdigoo-5-star-legendary-nature-green-from-slime-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-verdigoo-5-star-legendary-nature-green-from-slime-family-review</loc>
         <lastmod>2025-12-16</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2649,7 +2646,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-violet-potts-5-star-legendary-dark-purple-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-violet-potts-5-star-legendary-dark-purple-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2662,7 +2659,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-voidstar-5-star-legendary-dark-purple-from-astral-elves-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-voidstar-5-star-legendary-dark-purple-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2675,7 +2672,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-wealhtheow-5-star-legendary-holy-yellow-from-beowulf-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-wealhtheow-5-star-legendary-holy-yellow-from-beowulf-family-review</loc>
         <lastmod>2025-12-24</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2688,7 +2685,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-william-3-star-rare-nature-green-from-garrison-guards-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-william-3-star-rare-nature-green-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2701,7 +2698,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-winter-holiday-redeem-code-december-2025</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-winter-holiday-redeem-code-december-2025</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/avatar/christmas_ginger_costume_gift_wrapper.webp</image:loc>
@@ -2726,7 +2723,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-wulfstan-5-star-legendary-holy-yellow-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-wulfstan-5-star-legendary-holy-yellow-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2739,7 +2736,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/blog/empires-puzzles-zavinia-5-star-legendary-nature-green-from-cultist-family-review</loc>
+        <loc>https://empuzzled.com/blog/empires-puzzles-zavinia-5-star-legendary-nature-green-from-cultist-family-review</loc>
         <lastmod>2025-12-26</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/undefined_-_Hero_Card.webp</image:loc>
@@ -2752,7 +2749,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://empuzzled.com/empuzzled-gh-pages/tier-list/featured</loc>
+        <loc>https://empuzzled.com/tier-list/featured</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-12-29T17:27:23.469Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-12-29T19:34:45.884Z -->
