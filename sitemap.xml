@@ -260,7 +260,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/goblin_acidfire.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Change_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Shaal_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Featherino_-_Hero_Card.webp</image:loc>
@@ -338,7 +338,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/kalevala_aino_costume_water_maiden.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Tremor_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Brimstone_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alfie_-_Hero_Card.webp</image:loc>
@@ -351,7 +351,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/masquerade_alessia.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Odette_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ferrus_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Xavier_-_Hero_Card.webp</image:loc>
@@ -367,7 +367,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Aino_Costume_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Luna_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Blossom_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -416,7 +416,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/halloween_amber.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Boots_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ghealach_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Nova_-_Hero_Card.webp</image:loc>
@@ -498,6 +498,19 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Dabria_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-araminta-5-star-legendary-fire-red-from-woodland-faun-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/faun_araminta.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Revna_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Rosalind_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -592,13 +605,26 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ascian-5-star-legendary-ice-blue-from-woodland-faun-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/faun_ascian.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Pepperbleu_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Hreidmarr_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-ash-5-star-legendary-fire-red-from-super-elemental-family-review</loc>
         <lastmod>2025-12-30</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/elemental_ash.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Moonbell_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Gwynn_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Bearnadette_-_Hero_Card.webp</image:loc>
@@ -761,6 +787,19 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-blossom-5-star-legendary-fire-red-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_japanese_doll.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alfie_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Luna_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-bobo-5-star-legendary-ice-blue-from-starfall-circus-family-review</loc>
         <lastmod>2026-01-08</lastmod>
         <image:image>
@@ -771,6 +810,19 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Rana_Costume_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-bonechill-4-star-epic-ice-blue-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_bonechill.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Grilka_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Melancholia_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -793,7 +845,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/goblin_boom_and_fang.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Nova_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Tenebrae_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Fawn_-_Hero_Card.webp</image:loc>
@@ -809,7 +861,33 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Carmenta_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Amber_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ghealach_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-bramble-5-star-legendary-nature-green-from-woodland-faun-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/faun_bramble.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Gooric_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Chunkyroi_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-brimstone-5-star-legendary-fire-red-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_brimstone.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Xavier_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Aino_Costume_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -965,7 +1043,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Christine_Daae_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Acidfire_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Shaal_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1079,7 +1157,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/moth_chunkyroi.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Gooric_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Bramble_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Dagr_-_Hero_Card.webp</image:loc>
@@ -1144,7 +1222,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/elemental_craum.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Dolores_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Scoria_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Dubhan_-_Hero_Card.webp</image:loc>
@@ -1300,7 +1378,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/elemental_desmond.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Timius_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Shacklebolt_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Elba_-_Hero_Card.webp</image:loc>
@@ -1368,7 +1446,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Betty_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Craum_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Scoria_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1615,7 +1693,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Boom_and_Fang_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Februus_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Frond_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1638,7 +1716,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/masquerade_februus.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Fawn_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Frond_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Farrah_-_Hero_Card.webp</image:loc>
@@ -1668,6 +1746,19 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Salimata_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ferrus-5-star-legendary-nature-green-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_ferrus.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Odette_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alessia_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1788,6 +1879,19 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-frond-5-star-legendary-nature-green-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_frond.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Fawn_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Februus_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-frostsnout-5-star-legendary-ice-blue-from-garrison-guards-family-review</loc>
         <lastmod>2025-12-22</lastmod>
         <image:image>
@@ -1862,7 +1966,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Khatrox_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ratgrub_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Iron-Heart_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1915,6 +2019,19 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Bonecrusher_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-ghealach-5-star-legendary-ice-blue-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_blue_mage.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Boots_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Amber_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2005,7 +2122,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Frostsnout_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Chunkyroi_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Bramble_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2070,7 +2187,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Omen_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Melancholia_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Bonechill_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2152,6 +2269,19 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-gwynn-5-star-legendary-holy-yellow-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_gwynn.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Moonbell_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ash_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-hammerclang-5-star-legendary-fire-red-from-astral-elves-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
@@ -2230,13 +2360,26 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-hornfel-5-star-legendary-fire-red-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_hornfel.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Norman_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Prince_Siegfried_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-hreidmarr-5-star-legendary-dark-purple-from-nidavellir-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/tales2_hreidmarr.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Pepperbleu_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ascian_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Amund_-_Hero_Card.webp</image:loc>
@@ -2265,7 +2408,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Hunter_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Violet_Potts_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Rhineglow_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2370,6 +2513,19 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Moonbell_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-iron-heart-5-star-legendary-holy-yellow-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_ironheart.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Gardered_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ratgrub_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2548,7 +2704,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Dreadstar_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Mariol_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Scath_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2636,7 +2792,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/mighty_pet_luna.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alfie_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Blossom_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Linus_-_Hero_Card.webp</image:loc>
@@ -2675,7 +2831,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/owl_mariol.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Lazara_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Scath_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Archie_Costume_-_Hero_Card.webp</image:loc>
@@ -2688,7 +2844,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/shadow_melancholia.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Grilka_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Bonechill_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Mistra_-_Hero_Card.webp</image:loc>
@@ -2730,7 +2886,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Iocantha_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ash_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Gwynn_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2847,7 +3003,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Daemon_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Prince_Siegfried_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Hornfel_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2860,7 +3016,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Amber_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Boom_and_Fang_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Tenebrae_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2886,7 +3042,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Nine-Headed_Beast_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alessia_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ferrus_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2964,7 +3120,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Knightus_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Hreidmarr_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Ascian_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3013,7 +3169,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/ballerina_prince_siegfried.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Norman_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Hornfel_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Jolt_-_Hero_Card.webp</image:loc>
@@ -3091,7 +3247,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/goblin_ratgrub.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Gardered_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Iron-Heart_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Lemniss_-_Hero_Card.webp</image:loc>
@@ -3120,7 +3276,20 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Vincent_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Rosalind_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Araminta_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-rhineglow-5-star-legendary-nature-green-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_rhineglow.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Humbert_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Violet_Potts_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3143,7 +3312,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/garrison_rosalind.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Revna_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Araminta_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Slimgo_-_Hero_Card.webp</image:loc>
@@ -3267,6 +3436,32 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-scath-5-star-legendary-dark-purple-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_nocturne.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Lazara_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Mariol_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-scoria-5-star-legendary-fire-red-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_scoria.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Dolores_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Craum_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-sedille-5-star-legendary-fire-red-from-astral-dwarfs-family-review</loc>
         <lastmod>2025-12-14</lastmod>
         <image:image>
@@ -3280,13 +3475,39 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-shaal-5-star-legendary-holy-yellow-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_shaal.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Change_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Acidfire_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-shacklebolt-5-star-legendary-dark-purple-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_shacklebolt.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Timius_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Desmond_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-sigyn-5-star-legendary-ice-blue-from-plains-hunter-family-review</loc>
         <lastmod>2026-01-07</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/monster_hunter_sigyn.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Vander_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Skarn_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alvar_-_Hero_Card.webp</image:loc>
@@ -3303,6 +3524,19 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Chick_Jr_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-skarn-5-star-legendary-ice-blue-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_skarn.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Vander_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Sigyn_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3423,6 +3657,19 @@
         </image:image>
     </url>
     <url>
+        <loc>https://empuzzled.com/blog/empires-puzzles-tenebrae-5-star-legendary-dark-purple-from-construct-family-review</loc>
+        <lastmod>2026-01-08</lastmod>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/construct_tenebrae.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Nova_-_Hero_Card.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Boom_and_Fang_-_Hero_Card.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://empuzzled.com/blog/empires-puzzles-timius-5-star-legendary-ice-blue-from-owl-family-review</loc>
         <lastmod>2026-01-06</lastmod>
         <image:image>
@@ -3432,20 +3679,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Featherino_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Desmond_-_Hero_Card.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://empuzzled.com/blog/empires-puzzles-tremor-5-star-legendary-ice-blue-from-jungle-hunter-family-review</loc>
-        <lastmod>2026-01-07</lastmod>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/monster_hunter_tremor.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Xavier_-_Hero_Card.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Aino_Costume_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Shacklebolt_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3471,7 +3705,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Frank_Fangs_Brimwell_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Sigyn_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Skarn_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3507,7 +3741,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/full/lb2/garrison_violet_potts.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Humbert_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Rhineglow_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Starlass_-_Hero_Card.webp</image:loc>
@@ -3548,7 +3782,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Alessia_-_Hero_Card.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Tremor_-_Hero_Card.webp</image:loc>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/hero_cards/Brimstone_-_Hero_Card.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3607,4 +3841,4 @@
         <loc>https://empuzzled.com/tier-list/featured</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-01-08T20:19:10.656Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-01-08T22:07:55.409Z -->
