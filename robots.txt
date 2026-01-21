@@ -1,2 +1,4 @@
 User-Agent: *
 Disallow:
+
+Sitemap: https://empuzzled.com/sitemap.xml
