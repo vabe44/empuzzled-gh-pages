@@ -1,0 +1,1 @@
+import{_ as t}from"./UV5mxe-V.js";import{s as e,o as r}from"#entry";import"./DlAUqK2U.js";const m={__name:"BlogAd",setup(_){return(n,s)=>{const o=t;return r(),e(o,{"ad-slot":"3674273582","ad-format":"auto",responsive:!0})}}};export{m as default};
