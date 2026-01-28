@@ -59,7 +59,7 @@
     </url>
     <url>
         <loc>https://empuzzled.com/codes</loc>
-        <lastmod>2026-01-26</lastmod>
+        <lastmod>2026-01-28</lastmod>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/energy_alliance_full.png</image:loc>
         </image:image>
@@ -73,6 +73,27 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/trainer_dragon_rainbow_novice.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/elite_hero.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/energy_pve_full.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/refill_food_250k.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/loot_ticket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/dragon_s1_coin.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/energy_dragon_pve_full.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/dragon_refill_food_500k.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/challengeSeason_icon_currency.png</image:loc>
         </image:image>
         <image:image>
@@ -80,9 +101,6 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/red_lucky_coin.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/elite_hero.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/covenant_coin.webp</image:loc>
@@ -94,12 +112,6 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/dragon_ancient_coin.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/energy_pve_full.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/loot_ticket.webp</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/coin_untold_tales.webp</image:loc>
         </image:image>
         <image:image>
@@ -107,9 +119,6 @@
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/titan_battle_hurricane.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/refill_food_250k.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/tower_coin.webp</image:loc>
@@ -124,9 +133,6 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/refill_iron_500k.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/energy_dragon_pve_full.webp</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/dragon_refill_ore_500k.webp</image:loc>
         </image:image>
         <image:image>
@@ -139,13 +145,7 @@
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/costume_key.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/dragon_refill_food_500k.webp</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/trainer_rainbow.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/dragon_s1_coin.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://raw.githubusercontent.com/vabe44/31f5d518-epzl-cdn/main/items/tornado.webp</image:loc>
@@ -4386,4 +4386,4 @@
         <loc>https://empuzzled.com/tier-list/featured</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-01-26T17:38:48.463Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-01-28T18:46:09.930Z -->
