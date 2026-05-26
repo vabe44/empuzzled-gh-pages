@@ -152,7 +152,7 @@
     </url>
     <url>
         <loc>https://empuzzled.com/codes</loc>
-        <lastmod>2026-05-25</lastmod>
+        <lastmod>2026-05-26</lastmod>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/time_skip_rare.webp</image:loc>
         </image:image>
@@ -265,7 +265,7 @@
     <url>
         <loc>https://empuzzled.com/content-creators</loc>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-legokostya.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-mcnaulty.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-3kogames.webp</image:loc>
@@ -286,7 +286,7 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-generalj.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-mcnaulty.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-legokostya.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-mrchief.webp</image:loc>
@@ -1591,45 +1591,6 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/stat_health.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/tales2_fafnir.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/fighter.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/myrkheim.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_health_boost_and_mana_on_frost_resist_myrkheim.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_arctic_core.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/aether_power_frame.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_counterattack.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/symbol_star_big_small.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/moth_mortewitch.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/sorcerer.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/moths.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_dodge_special.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_defense_up.webp</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/tales1_atlanteia_costume_siren.webp</image:loc>
         </image:image>
         <image:image>
@@ -1648,10 +1609,19 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/card_costume.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/aether_power_frame.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_damage_reduction.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/symbol_star_big_small.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/astral_moonbell.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/sorcerer.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/astral_elves.webp</image:loc>
@@ -1664,42 +1634,6 @@
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_dodge.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/slime_fungustine.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/paladin.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_summon_slime_minion_on_death.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_summon_slime_minion_on_damage.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_regen.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/magic_carpet_agadh.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/magic_carpet.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_transform_buff.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_fly.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_reduce_minion_health.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_attack_up.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/shadow_asketel.webp</image:loc>
@@ -1720,7 +1654,124 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/cleric.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_summon_slime_minion_on_death.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_summon_slime_minion_on_damage.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_revive.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/garrison_theodosius.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/monk.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/garrison.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_mana_on_debuff.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_mana_direct_reduction.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_remove_wither_from_allies.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_defense_up.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/moth_mortewitch.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/moths.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_dodge_special.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/slime_fungustine.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/paladin.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_regen.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/garrison_frank_fangs_brimwell.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/fighter.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_attack_up.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/beowulf_modthryth.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/beowulf.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_mana_from_buff.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_empowered_mana_reduction.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_unbuffable.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/s5_hathor_costume_starlit.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/moon.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/guaranteed_passive_effects_on_special.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_mana_freeze.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_s5moon_mana.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/tales2_fafnir.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/myrkheim.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_health_boost_and_mana_on_frost_resist_myrkheim.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_arctic_core.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/aether_gifts/aether_counterattack.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/magic_carpet_agadh.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/magic_carpet.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_transform_buff.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_fly.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_reduce_minion_health.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/bard_astrid.webp</image:loc>
@@ -1733,18 +1784,6 @@
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_decrease_dance_duration.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/garrison_frank_fangs_brimwell.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/garrison.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_mana_direct_reduction.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_remove_wither_from_allies.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/fox_riverfang.webp</image:loc>
@@ -1772,45 +1811,6 @@
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_never_miss.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/beowulf_modthryth.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/beowulf.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_mana_from_buff.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_empowered_mana_reduction.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_unbuffable.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/garrison_theodosius.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/classes/monk.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_mana_on_debuff.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/s5_hathor_costume_starlit.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/families/moon.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/guaranteed_passive_effects_on_special.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/status_mana_freeze.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/IconsCard/passive_s5moon_mana.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/ballerina_odile.webp</image:loc>
@@ -329803,4 +329803,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-05-25T12:41:45.379Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-05-26T12:44:19.402Z -->
