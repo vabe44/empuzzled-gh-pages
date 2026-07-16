@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as r,o as s,as as a}from"#entry";const t={};function n(e,c){return s(),r("thead",null,[a(e.$slots,"default")])}const d=Object.assign(o(t,[["render",n]]),{__name:"ProseThead"});export{d as default};
