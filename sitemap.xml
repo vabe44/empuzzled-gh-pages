@@ -182,7 +182,7 @@
     </url>
     <url>
         <loc>https://empuzzled.com/codes</loc>
-        <lastmod>2026-08-09</lastmod>
+        <lastmod>2026-08-10</lastmod>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/energy_friendly_matches.webp</image:loc>
         </image:image>
@@ -304,7 +304,7 @@
     <url>
         <loc>https://empuzzled.com/content-creators</loc>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-atg.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-combonator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-3kogames.webp</image:loc>
@@ -313,7 +313,7 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-archon.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-combonator.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-atg.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/codes/creator-fizel.webp</image:loc>
@@ -3544,28 +3544,22 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/potent_leaves.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/fine_steel.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/crypt_mushroom.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/sunspire_feathers.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/firestone.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/orichalcum_nugget.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/grimoire_dust.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/dragon_bone.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/hidden_blade.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/warm_cape.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/tall_boots.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/compass.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/sharpening_stone.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/battle_manual.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/dagger.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/limitbreak_rare_red.webp</image:loc>
@@ -3577,25 +3571,25 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/limitbreak_legendary_red.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/hail_of_spears.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/red_banner.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/arrow_attack.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/wall_of_shields.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/healing_salve.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/field_aid.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/red_banner.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/bomb_barrage.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/hail_of_spears.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/mana_potion.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/misc/symbol_gem.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/elite_troop.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/loot_ticket.webp</image:loc>
@@ -3604,22 +3598,22 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/portraits/trainer_rainbow.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/emblem_rogue.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/emblem_druid.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/emblem_wizard.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_spine.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_egg.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_shell.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_heart.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_tail.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_beak.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_eye.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/poweritem_tome_of_experience_epic.webp</image:loc>
@@ -3628,7 +3622,10 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/troops/rainbow_epic_trainer.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/crypt_mushroom.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/fine_steel.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/dragon_bone.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/arcane_scripts.webp</image:loc>
@@ -3649,6 +3646,9 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/limitbreak_legendary_blue.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/field_aid.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/antidote_dust.webp</image:loc>
         </image:image>
         <image:image>
@@ -3656,6 +3656,9 @@
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/basic.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/elite_troop.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/elite_hero.webp</image:loc>
@@ -3676,13 +3679,10 @@
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/emblem_master_barbarian.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_shell.webp</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_plume.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_heart.webp</image:loc>
+            <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/titan_item_spine.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/vabe44/31f5d518-epzl-cdn@main/items/royal_tabard.webp</image:loc>
@@ -291193,4 +291193,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-08-09T19:52:16.797Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2026-08-10T16:26:28.221Z -->
