@@ -1,0 +1,1 @@
+function e(e){return e.flatMap(e=>e.heroes||[])}function t(t,n){return e(t).map(n).filter(e=>!!e)}export{t as n,e as t};

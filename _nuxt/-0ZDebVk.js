@@ -1,0 +1,1 @@
+import{t as e}from"./tOxzOHUj.js";import{F as t,S as n,X as r}from"./CCjiVaUw.js";t();var i={__name:`BlogAd`,setup(t){return(t,i)=>{let a=e;return r(),n(a,{"ad-slot":`3674273582`,"ad-format":`auto`,responsive:!0})}}};export{i as default};

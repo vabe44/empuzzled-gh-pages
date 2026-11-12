@@ -1,0 +1,1 @@
+import{at as e}from"#entry";import{F as t,S as n,X as r,et as i,ut as a}from"./CCjiVaUw.js";t();var o={__name:`ProseA`,props:{href:{type:String,default:``},target:{type:String,default:void 0,required:!1}},setup(t){let o=t;return(t,s)=>{let c=e;return r(),n(c,{href:o.href,target:o.target},{default:a(()=>[i(t.$slots,`default`)]),_:3},8,[`href`,`target`])}}};export{o as default};
