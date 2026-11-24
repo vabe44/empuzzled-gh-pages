@@ -1,0 +1,1 @@
+function e(e){let t=Array.isArray(e)?e.length>0?String(e[0]):``:e==null?``:String(e);if(t===`true`)return!0;if(t===`false`)return!1}export{e as t};
